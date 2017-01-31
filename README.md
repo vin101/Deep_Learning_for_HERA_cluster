@@ -19,5 +19,5 @@ Radio telescope clusters like the HERA are not able to detect in real time if on
 
 We were inspired by the Kaggle competition where whale sounds were encoded into images and a convolution net was used for classification. We use a similar approach and encode the data into images and use a deep convolution neural network for classification and prediction.
 
-Please refer to the (main) jupeter notebook for the detailed methodology of the implementation and testing.
+Please refer to the (main.ipynb) jupeter notebook for the detailed methodology of the implementation and testing.
 
